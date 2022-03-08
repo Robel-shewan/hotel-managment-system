@@ -14,11 +14,11 @@ Web application for managing hotel rooms, guests and reservations with flexible 
 * XML PHP Extension
 * [Composer](https://getcomposer.org)
 
-## Demo: [hotelmanager.it-maniak.pl](http://hotelmanager.it-maniak.pl)
+## Demo: []
 
 Admin:<br />
-Login: admin2@example.com<br />
-Password: testadmin2
+Login: admin@example.com<br />
+Password: testadmin
 
 User:<br />
 Login: user@example.com<br />
