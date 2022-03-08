@@ -1,6 +1,6 @@
 # Hotel Manager
 
-Web application for managing hotel rooms, guests and reservations with flexible and responsive frontend written in [Laravel](https://laravel.com) 5.5
+Web application for managing hotel rooms, guests and reservations with flexible
 
 ![All reservations](github_images/all_reservations.PNG)
 
