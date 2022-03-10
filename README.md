@@ -6,13 +6,7 @@ Web application for managing hotel rooms, guests and reservations with flexible
 
 ## Requirements
 
-* [PHP](http://php.net) >= 7.0.0
-* OpenSSL PHP Extension
-* PDO PHP Extension
-* Mbstring PHP Extension
-* Tokenizer PHP Extension
-* XML PHP Extension
-* [Composer](https://getcomposer.org)
+
 
 ## Demo: []
 
